@@ -34,12 +34,13 @@ cd weather_app
 flutter pub get
 
 4. Update a consts.dart file in the lib directory with your OpenWeatherMap API key:
-```bash
-   const String OPENWEATHER_API_KEY = 'your_openweather_api_key';
+   ```bash
+      const String OPENWEATHER_API_KEY = 'your_openweather_api_key';
 
 
 ### Running the App
 Connect a device or start an emulator.
+
 ## Run the app:
 ```bash
    flutter run
