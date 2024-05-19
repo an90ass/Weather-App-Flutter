@@ -28,8 +28,9 @@ https://github.com/an90ass/Weather-App-Flutter.git
 
 2. Navigate to the project directory:
 
+```sh
 cd weather_app
-
+```sh
 3. Install dependencies:
 flutter pub get
 
