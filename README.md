@@ -9,8 +9,9 @@ A Flutter application that fetches and displays current weather information for 
 - User-friendly UI with a location header, date and time, weather icon, and detailed weather information.
 
 ## Screenshots
+![WhatsApp Image 2024-05-20 at 1 54 22 AM](https://github.com/an90ass/Weather-App-Flutter/assets/91754070/c31a3728-98d6-4a8e-91f2-cd0f76082aca)
+![WhatsApp Image 2024-05-20 at 1 52 13 AM](https://github.com/an90ass/Weather-App-Flutter/assets/91754070/3d76ed3b-3145-41b6-996b-afb0ccb7865d)
 
-![Weather App Screenshot](screenshots/weather_app_screenshot.png)
 
 ## Getting Started
 
