@@ -23,18 +23,17 @@ A Flutter application that fetches and displays current weather information for 
 
 1. Clone the repository:
 
-```sh
 https://github.com/an90ass/Weather-App-Flutter.git
 
 2. Navigate to the project directory:
 
-```sh
 cd weather_app
-```sh
+
 3. Install dependencies:
+   
 flutter pub get
 
-Update a consts.dart file in the lib directory with your OpenWeatherMap API key:
+4. Update a consts.dart file in the lib directory with your OpenWeatherMap API key:
 const String OPENWEATHER_API_KEY = 'your_openweather_api_key';
 
 
