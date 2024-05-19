@@ -22,7 +22,7 @@ A Flutter application that fetches and displays current weather information for 
 ### Setup
 
 1. Clone the repository:
-```sh
+``sh
 https://github.com/an90ass/Weather-App-Flutter.git
 
 2. Navigate to the project directory:
